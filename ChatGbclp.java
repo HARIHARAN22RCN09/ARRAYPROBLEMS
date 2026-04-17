@@ -1,3 +1,4 @@
+package ARRAYPROBLEMS;
 public class ChatGbclp{
 public static void main (String args[]){
           String strs[] = {"klower","rlow","light"};
